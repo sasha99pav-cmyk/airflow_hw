@@ -1,0 +1,3 @@
+{"timestamp":"2025-09-06T19:41:12.451865","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager"}
+{"timestamp":"2025-09-06T19:41:12.453924","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/hw_dag.py","logger":"airflow.models.dagbag.DagBag"}
+{"timestamp":"2025-09-06T19:41:22.431954","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator"}
